@@ -1,0 +1,101 @@
+CustomerID,Location,Product,Score,Feedback Text,SellerID,ManufacturerID,VendorID
+C001,Delhi,Product A,6.2,Loved how fast and responsive the product feels. Very intuitive interface.,S003,M002,V002
+C002,Jaipur,Product A,9.5,Excellent support team. Issue resolved in under an hour!,S005,M004,V001
+C003,Chennai,Product E,8.2,Exceptional experience from purchase to usage.,S005,M001,V005
+C004,Jaipur,Product D,7.5,Loved how fast and responsive the product feels. Very intuitive interface.,S002,M004,V005
+C005,Bangalore,Product D,4.9,Great build quality. I’ve been using it daily without any problems.,S003,M003,V002
+C006,Delhi,Product A,4.9,,S004,M001,V003
+C007,Lucknow,Product C,4.3,Affordable and delivers exactly what it promises.,S001,M004,V005
+C008,Delhi,Product E,9.0,The app kept crashing during checkout. Frustrating experience.,S003,M005,V003
+C009,Mumbai,Product B,7.5,,S003,M001,V002
+C010,Kolkata,Product C,8.1,"It’s okay overall, though some features are underused.",S004,M003,V002
+C011,Hyderabad,Product A,4.1,,S005,M002,V005
+C012,Bangalore,Product D,9.6,Great build quality. I’ve been using it daily without any problems.,S004,M003,V005
+C013,Mumbai,Product B,8.8,Excellent support team. Issue resolved in under an hour!,S001,M003,V004
+C014,Lucknow,Product C,5.2,,S002,M004,V004
+C015,Ahmedabad,Product B,5.1,,S003,M002,V002
+C016,Jaipur,Product C,5.1,"It’s okay overall, though some features are underused.",S005,M004,V005
+C017,Bangalore,Product E,5.8,,S004,M001,V001
+C018,Bangalore,Product B,7.0,Serviceable but nothing exciting.,S004,M005,V001
+C019,Ahmedabad,Product E,6.5,,S003,M005,V001
+C020,Delhi,Product E,5.7,Excellent support team. Issue resolved in under an hour!,S003,M003,V001
+C021,Ahmedabad,Product A,7.5,The app kept crashing during checkout. Frustrating experience.,S003,M005,V002
+C022,Hyderabad,Product E,4.8,"It’s okay overall, though some features are underused.",S005,M002,V002
+C023,Jaipur,Product E,5.7,Product works fine for daily tasks but nothing exceptional.,S001,M005,V003
+C024,Pune,Product C,6.1,,S002,M001,V002
+C025,Delhi,Product A,6.6,,S004,M001,V005
+C026,Bangalore,Product D,8.6,User experience is clunky and inconsistent.,S005,M002,V003
+C027,Kolkata,Product B,5.2,Average experience. Didn't face any major issues.,S005,M002,V003
+C028,Ahmedabad,Product E,7.0,Great build quality. I’ve been using it daily without any problems.,S004,M001,V002
+C029,Mumbai,Product E,7.4,Loved how fast and responsive the product feels. Very intuitive interface.,S005,M002,V005
+C030,Mumbai,Product B,4.3,Excellent support team. Issue resolved in under an hour!,S001,M001,V003
+C031,Hyderabad,Product D,7.5,,S002,M005,V002
+C032,Lucknow,Product E,5.0,,S004,M002,V004
+C033,Chennai,Product A,4.4,Met expectations but lacks standout features.,S001,M004,V003
+C034,Mumbai,Product A,9.5,,S001,M004,V003
+C035,Delhi,Product B,9.6,Met expectations but lacks standout features.,S002,M002,V005
+C036,Bangalore,Product C,8.7,Serviceable but nothing exciting.,S004,M002,V001
+C037,Delhi,Product A,5.8,,S005,M001,V001
+C038,Chennai,Product B,4.6,Affordable and delivers exactly what it promises.,S004,M004,V004
+C039,Mumbai,Product B,8.0,Affordable and delivers exactly what it promises.,S004,M001,V004
+C040,Hyderabad,Product D,6.6,Excellent support team. Issue resolved in under an hour!,S005,M004,V002
+C041,Mumbai,Product E,4.7,Very satisfied with the reliability and design.,S005,M001,V003
+C042,Ahmedabad,Product E,6.9,,S005,M002,V001
+C043,Delhi,Product B,4.2,,S001,M005,V001
+C044,Chennai,Product D,9.3,The app kept crashing during checkout. Frustrating experience.,S001,M005,V002
+C045,Lucknow,Product A,5.5,Feels outdated. Needs a major redesign and performance boost.,S004,M005,V005
+C046,Chennai,Product C,7.8,Exceptional experience from purchase to usage.,S002,M003,V004
+C047,Hyderabad,Product D,5.8,Serviceable but nothing exciting.,S003,M001,V001
+C048,Delhi,Product A,7.0,Great build quality. I’ve been using it daily without any problems.,S005,M002,V005
+C049,Delhi,Product B,7.2,Serviceable but nothing exciting.,S003,M003,V002
+C050,Hyderabad,Product E,5.1,Exceptional experience from purchase to usage.,S005,M001,V005
+C051,Delhi,Product B,9.6,,S003,M001,V001
+C052,Bangalore,Product C,8.5,,S003,M005,V002
+C053,Chennai,Product C,9.4,,S005,M004,V003
+C054,Mumbai,Product A,9.2,Excellent support team. Issue resolved in under an hour!,S004,M003,V001
+C055,Hyderabad,Product B,7.5,The app kept crashing during checkout. Frustrating experience.,S004,M005,V004
+C056,Delhi,Product B,9.3,Support was slow and unhelpful. Wouldn’t recommend right now.,S005,M001,V003
+C057,Kolkata,Product B,4.5,,S001,M003,V003
+C058,Mumbai,Product C,5.1,Serviceable but nothing exciting.,S002,M002,V001
+C059,Kolkata,Product E,4.3,,S002,M002,V002
+C060,Bangalore,Product D,5.9,,S001,M002,V003
+C061,Kolkata,Product B,6.3,Product works fine for daily tasks but nothing exceptional.,S003,M002,V001
+C062,Ahmedabad,Product B,5.6,"It’s okay overall, though some features are underused.",S002,M004,V003
+C063,Chennai,Product A,8.8,Loved how fast and responsive the product feels. Very intuitive interface.,S002,M004,V003
+C064,Hyderabad,Product C,6.1,Product works fine for daily tasks but nothing exceptional.,S005,M004,V005
+C065,Delhi,Product C,5.6,Very satisfied with the reliability and design.,S002,M005,V003
+C066,Kolkata,Product C,7.1,,S003,M004,V005
+C067,Delhi,Product D,4.8,Affordable and delivers exactly what it promises.,S005,M002,V003
+C068,Mumbai,Product E,8.7,Average experience. Didn't face any major issues.,S005,M002,V003
+C069,Lucknow,Product C,4.4,Met expectations but lacks standout features.,S001,M003,V005
+C070,Pune,Product D,9.7,Exceptional experience from purchase to usage.,S003,M005,V002
+C071,Kolkata,Product B,8.5,Product works fine for daily tasks but nothing exceptional.,S005,M005,V003
+C072,Hyderabad,Product C,5.2,,S002,M004,V005
+C073,Pune,Product D,4.0,Support was slow and unhelpful. Wouldn’t recommend right now.,S004,M004,V002
+C074,Delhi,Product C,8.7,Excellent support team. Issue resolved in under an hour!,S005,M005,V003
+C075,Hyderabad,Product B,8.1,Affordable and delivers exactly what it promises.,S002,M002,V001
+C076,Lucknow,Product A,8.2,Exceptional experience from purchase to usage.,S004,M004,V005
+C077,Kolkata,Product D,8.5,,S004,M002,V002
+C078,Mumbai,Product A,4.4,,S004,M002,V002
+C079,Jaipur,Product D,6.1,,S001,M005,V002
+C080,Delhi,Product D,4.7,,S002,M004,V005
+C081,Lucknow,Product C,9.0,Serviceable but nothing exciting.,S004,M005,V005
+C082,Ahmedabad,Product B,7.6,,S004,M004,V003
+C083,Hyderabad,Product E,5.9,Average experience. Didn't face any major issues.,S004,M002,V003
+C084,Chennai,Product C,4.4,Excellent support team. Issue resolved in under an hour!,S003,M003,V005
+C085,Chennai,Product D,5.8,Average experience. Didn't face any major issues.,S002,M002,V001
+C086,Jaipur,Product D,5.9,,S004,M001,V002
+C087,Kolkata,Product E,8.2,Average experience. Didn't face any major issues.,S001,M005,V004
+C088,Hyderabad,Product D,7.7,,S004,M005,V005
+C089,Chennai,Product D,9.1,Met expectations but lacks standout features.,S002,M003,V004
+C090,Pune,Product D,6.7,,S002,M004,V002
+C091,Jaipur,Product A,4.7,,S004,M005,V005
+C092,Delhi,Product D,8.1,Affordable and delivers exactly what it promises.,S002,M004,V002
+C093,Pune,Product B,8.4,,S004,M003,V003
+C094,Kolkata,Product C,7.3,Serviceable but nothing exciting.,S004,M003,V001
+C095,Mumbai,Product C,8.5,,S002,M001,V001
+C096,Chennai,Product B,6.9,Affordable and delivers exactly what it promises.,S001,M005,V002
+C097,Delhi,Product E,7.0,,S002,M004,V003
+C098,Bangalore,Product E,6.5,,S005,M001,V002
+C099,Delhi,Product E,4.1,,S001,M003,V005
+C100,Kolkata,Product D,4.6,,S002,M001,V005
